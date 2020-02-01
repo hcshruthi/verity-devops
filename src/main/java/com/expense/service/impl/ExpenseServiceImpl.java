@@ -11,6 +11,7 @@ import com.expense.entity.User;
 import com.expense.entity.repository.ExpenseRepository;
 import com.expense.entity.repository.UserRepository;
 import com.expense.service.ExpenseService;
+impot com.expense.service.UserServiceTest.saveUserTest;
 
 // Service implementation with business logic and access repository
 
